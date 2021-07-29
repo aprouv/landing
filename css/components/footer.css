@@ -1,0 +1,27 @@
+.footer {
+  background-color: black;
+  opacity: 0.8;
+  display: block;
+  padding: 60px;
+  text-align: center;
+}
+
+.list a {
+  display: inline;
+}
+
+a > i {
+  font-size: 30px;
+  color: #1EDD88;
+}
+
+.list p {
+  color: white;
+  font-size: 16px;
+  opacity: 0.5;
+  letter-spacing: 1.2;
+}
+
+.list p > i {
+  color: red;
+}

@@ -1,0 +1,32 @@
+.container2 {
+  width: 900px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card {
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  padding: 20px;
+  font-size: 16px;
+}
+
+.card h3 {
+  font-size: 16px;
+}
+
+.card p {
+  opacity: 0.5;
+  font-weight: lighter;
+}
+
+.card img {
+  height: 100px;
+}

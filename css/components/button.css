@@ -1,0 +1,9 @@
+.container a {
+  background-color: #1EDD88;
+  color: white;
+  padding: 16px 28px;
+  border-radius: 25px;
+  display: block;
+  width: 100px;
+  text-align: center;
+}
